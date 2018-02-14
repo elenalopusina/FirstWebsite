@@ -1,0 +1,40 @@
+.jumbotron {
+	background-image: url('images/moscow.jpg');
+	height: 700px;
+	color: #902320;
+	font-family: 'Shadows Into Light Two', cursive;
+	border: 5px solid black;
+	margin-bottom: 0px;
+}
+.main-content {
+	background-color: #E6BF9E;
+	padding-top: 20px;
+}
+.text {
+	text-align: justify;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+}
+.title {
+	text-align: center;
+}
+img {
+	height: 700px;
+	padding-top: 20px;
+	display: block;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.text2 {
+	font-size: 15px;
+	text-align: justify;
+	font-family: 'Raleway', sans-serif;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
